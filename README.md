@@ -1,0 +1,1 @@
+# Heurystka-sluzaca-do-sekwencjonowania-kodu-DNA
